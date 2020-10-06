@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37155" started-at="2020-10-05T01:23:20Z" finished-at="2020-10-05T01:23:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37155" started-at="2020-10-05T01:23:20Z" finished-at="2020-10-05T01:23:58Z">
+      <class name="com.firmex.testCases.InvalidLoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.firmex.testCases.InvalidLoginTest@57fffcd7]" name="setup" is-config="true" duration-ms="7797" started-at="2020-10-05T01:23:21Z" finished-at="2020-10-05T01:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="invalidLoginTest()[pri:0, instance:com.firmex.testCases.InvalidLoginTest@57fffcd7]" name="invalidLoginTest" duration-ms="28354" started-at="2020-10-05T01:23:28Z" finished-at="2020-10-05T01:23:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.firmex.testCases.InvalidLoginTest@57fffcd7]" name="tearDown" is-config="true" duration-ms="975" started-at="2020-10-05T01:23:57Z" finished-at="2020-10-05T01:23:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidLoginTest status=SUCCESS method=InvalidLoginTest.invalidLoginTest()[pri:0, instance:com.firmex.testCases.InvalidLoginTest@57fffcd7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.firmex.testCases.InvalidLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Firmex Test" parallel="false" >
+  <test name="Firmex Test" >
+    <classes>
+      <class name="com.firmex.testCases.InvalidLoginTest"/>
+    </classes>
+ </test>
+</suite>

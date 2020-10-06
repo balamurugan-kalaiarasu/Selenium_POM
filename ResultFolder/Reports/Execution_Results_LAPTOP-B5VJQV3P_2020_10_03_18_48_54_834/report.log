@@ -1,0 +1,835 @@
+Oct 03, 2020 6:48:54 PM com.firmex.helper.Defs setUpLog
+INFO: Logger is inilitized
+Oct 03, 2020 6:48:55 PM com.firmex.helper.Defs getTestData
+INFO: Data read form test data--->{Email=abcd@abcd.com, Password=abcd}
+Oct 03, 2020 6:48:55 PM com.firmex.base.TestBase setup
+INFO: Logger added
+Oct 03, 2020 6:49:02 PM com.firmex.listener.WebEventListener beforeNavigateTo
+INFO: Before navigating to: 'https://www.firmex.com/'
+Oct 03, 2020 6:49:04 PM com.firmex.listener.WebEventListener afterNavigateTo
+INFO: Navigated to:'https://www.firmex.com/'
+Oct 03, 2020 6:49:04 PM com.firmex.helper.Defs log
+INFO: Successfully lauched the URL - https://www.firmex.com/
+Oct 03, 2020 6:49:04 PM com.firmex.page.Home getTitle
+INFO: Title - The World's Most Trusted Virtual Data Room | Firmex
+Oct 03, 2020 6:49:04 PM com.firmex.helper.Defs log
+INFO: Title verified
+Oct 03, 2020 6:49:04 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //a[@class='custom-logo-link']
+Oct 03, 2020 6:49:04 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //a[@class='custom-logo-link']
+Oct 03, 2020 6:49:04 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********false
+Oct 03, 2020 6:49:04 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //a[@class='custom-logo-link']
+Oct 03, 2020 6:49:04 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //a[@class='custom-logo-link']
+Oct 03, 2020 6:49:04 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:04 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Virtual Data Room')]
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Virtual Data Room')]
+Oct 03, 2020 6:49:05 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********true
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Virtual Data Room')]
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Virtual Data Room')]
+Oct 03, 2020 6:49:05 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Solutions')]
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Solutions')]
+Oct 03, 2020 6:49:05 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********true
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Solutions')]
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Solutions')]
+Oct 03, 2020 6:49:05 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Customers')]
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Customers')]
+Oct 03, 2020 6:49:05 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********true
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Customers')]
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Customers')]
+Oct 03, 2020 6:49:05 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Support')]
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Support')]
+Oct 03, 2020 6:49:05 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********true
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Support')]
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Support')]
+Oct 03, 2020 6:49:05 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Resources')]
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Resources')]
+Oct 03, 2020 6:49:05 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********true
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Resources')]
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Resources')]
+Oct 03, 2020 6:49:05 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //a[@class='button login']/following::a[contains(text(),'Book A Demo')][1]
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //a[@class='button login']/following::a[contains(text(),'Book A Demo')][1]
+Oct 03, 2020 6:49:05 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********true
+Oct 03, 2020 6:49:05 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //a[@class='button login']/following::a[contains(text(),'Book A Demo')][1]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //a[@class='button login']/following::a[contains(text(),'Book A Demo')][1]
+Oct 03, 2020 6:49:06 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:06 PM com.firmex.helper.Defs takeScreenShot
+INFO: Inside Screen Shot
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //a[@class='custom-logo-link']
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //a[@class='custom-logo-link']
+Oct 03, 2020 6:49:06 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //a[@class='custom-logo-link']
+Oct 03, 2020 6:49:06 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //a[@class='custom-logo-link']
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //a[@class='custom-logo-link']
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //a[@class='custom-logo-link']
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Virtual Data Room')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Virtual Data Room')]
+Oct 03, 2020 6:49:06 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //ul[@id='primary-menu']//li//a[contains(text(),'Virtual Data Room')]
+Oct 03, 2020 6:49:06 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //ul[@id='primary-menu']//li//a[contains(text(),'Virtual Data Room')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Virtual Data Room')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Virtual Data Room')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Solutions')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Solutions')]
+Oct 03, 2020 6:49:06 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //ul[@id='primary-menu']//li//a[contains(text(),'Solutions')]
+Oct 03, 2020 6:49:06 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //ul[@id='primary-menu']//li//a[contains(text(),'Solutions')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Solutions')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Solutions')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Customers')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Customers')]
+Oct 03, 2020 6:49:06 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //ul[@id='primary-menu']//li//a[contains(text(),'Customers')]
+Oct 03, 2020 6:49:06 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //ul[@id='primary-menu']//li//a[contains(text(),'Customers')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Customers')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Customers')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Support')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Support')]
+Oct 03, 2020 6:49:06 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //ul[@id='primary-menu']//li//a[contains(text(),'Support')]
+Oct 03, 2020 6:49:06 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //ul[@id='primary-menu']//li//a[contains(text(),'Support')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Support')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Support')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Resources')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Resources')]
+Oct 03, 2020 6:49:06 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //ul[@id='primary-menu']//li//a[contains(text(),'Resources')]
+Oct 03, 2020 6:49:06 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //ul[@id='primary-menu']//li//a[contains(text(),'Resources')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Resources')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Resources')]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //a[@class='button login']/following::a[contains(text(),'Book A Demo')][1]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //a[@class='button login']/following::a[contains(text(),'Book A Demo')][1]
+Oct 03, 2020 6:49:06 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //a[@class='button login']/following::a[contains(text(),'Book A Demo')][1]
+Oct 03, 2020 6:49:06 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //a[@class='button login']/following::a[contains(text(),'Book A Demo')][1]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //a[@class='button login']/following::a[contains(text(),'Book A Demo')][1]
+Oct 03, 2020 6:49:06 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //a[@class='button login']/following::a[contains(text(),'Book A Demo')][1]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //a[@class='custom-logo-link']
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //a[@class='custom-logo-link']
+Oct 03, 2020 6:49:07 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //a[@class='custom-logo-link']
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //a[@class='custom-logo-link']
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //a[@class='custom-logo-link']
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Virtual Data Room')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Virtual Data Room')]
+Oct 03, 2020 6:49:07 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //ul[@id='primary-menu']//li//a[contains(text(),'Virtual Data Room')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Virtual Data Room')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Virtual Data Room')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Solutions')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Solutions')]
+Oct 03, 2020 6:49:07 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //ul[@id='primary-menu']//li//a[contains(text(),'Solutions')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Solutions')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Solutions')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Customers')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Customers')]
+Oct 03, 2020 6:49:07 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //ul[@id='primary-menu']//li//a[contains(text(),'Customers')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Customers')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Customers')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Support')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Support')]
+Oct 03, 2020 6:49:07 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //ul[@id='primary-menu']//li//a[contains(text(),'Support')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Support')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Support')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Resources')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //ul[@id='primary-menu']//li//a[contains(text(),'Resources')]
+Oct 03, 2020 6:49:07 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //ul[@id='primary-menu']//li//a[contains(text(),'Resources')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Resources')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //ul[@id='primary-menu']//li//a[contains(text(),'Resources')]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //a[@class='button login']/following::a[contains(text(),'Book A Demo')][1]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //a[@class='button login']/following::a[contains(text(),'Book A Demo')][1]
+Oct 03, 2020 6:49:07 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //a[@class='button login']/following::a[contains(text(),'Book A Demo')][1]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //a[@class='button login']/following::a[contains(text(),'Book A Demo')][1]
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //a[@class='button login']/following::a[contains(text(),'Book A Demo')][1]
+Oct 03, 2020 6:49:07 PM com.firmex.helper.Defs takeScreenShot
+INFO: ResultFolder\Reports\\Execution_Results_LAPTOP-B5VJQV3P_2020_10_03_18_48_54_834\Screenshots\Screenshot_1_elements_2020_10_03_18_49_06
+Oct 03, 2020 6:49:07 PM com.firmex.helper.Defs log
+INFO: Page contents are validated
+Oct 03, 2020 6:49:07 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //div[contains(@class, 'survey-point')]
+Oct 03, 2020 6:49:22 PM com.firmex.listener.WebEventListener onException
+INFO: Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'survey-point')]"}
+  (Session info: chrome=85.0.4183.121)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-B5VJQV3P', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\Bala\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:56721}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: e0f4d7565603d22fc0f1ed685144d7d7
+*** Element info: {Using=xpath, value=//div[contains(@class, 'survey-point')]}
+Oct 03, 2020 6:49:22 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: No Such Element Exception Occur
+Oct 03, 2020 6:49:22 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //a[@class='button login']
+Oct 03, 2020 6:49:22 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //a[@class='button login']
+Oct 03, 2020 6:49:22 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********true
+Oct 03, 2020 6:49:22 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //a[@class='button login']
+Oct 03, 2020 6:49:22 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //a[@class='button login']
+Oct 03, 2020 6:49:22 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:22 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //a[@class='button login']
+Oct 03, 2020 6:49:22 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //a[@class='button login']
+Oct 03, 2020 6:49:22 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //a[@class='button login']
+Oct 03, 2020 6:49:22 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //a[@class='button login']
+Oct 03, 2020 6:49:23 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //a[@class='button login']
+Oct 03, 2020 6:49:23 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //a[@class='button login']
+Oct 03, 2020 6:49:23 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //a[@class='button login']
+Oct 03, 2020 6:49:23 PM com.firmex.listener.WebEventListener beforeClickOn
+INFO: Trying to click on: [[ChromeDriver: chrome on WINDOWS (e0f4d7565603d22fc0f1ed685144d7d7)] -> xpath: //a[@class='button login']]
+Oct 03, 2020 6:49:23 PM com.firmex.listener.WebEventListener afterClickOn
+INFO: Clicked on: [[ChromeDriver: chrome on WINDOWS (e0f4d7565603d22fc0f1ed685144d7d7)] -> xpath: //a[@class='button login']]
+Oct 03, 2020 6:49:23 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //img[@class='loginLogo']
+Oct 03, 2020 6:49:25 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //img[@class='loginLogo']
+Oct 03, 2020 6:49:25 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********true
+Oct 03, 2020 6:49:25 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //img[@class='loginLogo']
+Oct 03, 2020 6:49:25 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //img[@class='loginLogo']
+Oct 03, 2020 6:49:25 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:25 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //h4[text()='Email Address']
+Oct 03, 2020 6:49:25 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //h4[text()='Email Address']
+Oct 03, 2020 6:49:25 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********true
+Oct 03, 2020 6:49:25 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //h4[text()='Email Address']
+Oct 03, 2020 6:49:25 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //h4[text()='Email Address']
+Oct 03, 2020 6:49:25 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:25 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@name='email']
+Oct 03, 2020 6:49:25 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@name='email']
+Oct 03, 2020 6:49:25 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********true
+Oct 03, 2020 6:49:25 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@name='email']
+Oct 03, 2020 6:49:25 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@name='email']
+Oct 03, 2020 6:49:25 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:25 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@value='next']
+Oct 03, 2020 6:49:25 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@value='next']
+Oct 03, 2020 6:49:25 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********true
+Oct 03, 2020 6:49:25 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@value='next']
+Oct 03, 2020 6:49:26 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@value='next']
+Oct 03, 2020 6:49:26 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:26 PM com.firmex.helper.Defs takeOneShot
+INFO: Inside Screen Shot
+Oct 03, 2020 6:49:26 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //img[@class='loginLogo']
+Oct 03, 2020 6:49:26 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //img[@class='loginLogo']
+Oct 03, 2020 6:49:26 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //img[@class='loginLogo']
+Oct 03, 2020 6:49:26 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //img[@class='loginLogo']
+Oct 03, 2020 6:49:26 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //img[@class='loginLogo']
+Oct 03, 2020 6:49:26 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //img[@class='loginLogo']
+Oct 03, 2020 6:49:26 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //h4[text()='Email Address']
+Oct 03, 2020 6:49:26 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //h4[text()='Email Address']
+Oct 03, 2020 6:49:26 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //h4[text()='Email Address']
+Oct 03, 2020 6:49:26 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //h4[text()='Email Address']
+Oct 03, 2020 6:49:26 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //h4[text()='Email Address']
+Oct 03, 2020 6:49:26 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //h4[text()='Email Address']
+Oct 03, 2020 6:49:26 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@name='email']
+Oct 03, 2020 6:49:26 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@name='email']
+Oct 03, 2020 6:49:26 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //input[@name='email']
+Oct 03, 2020 6:49:26 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //input[@name='email']
+Oct 03, 2020 6:49:26 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@name='email']
+Oct 03, 2020 6:49:26 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@name='email']
+Oct 03, 2020 6:49:26 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@value='next']
+Oct 03, 2020 6:49:26 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@value='next']
+Oct 03, 2020 6:49:26 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //input[@value='next']
+Oct 03, 2020 6:49:26 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //input[@value='next']
+Oct 03, 2020 6:49:26 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@value='next']
+Oct 03, 2020 6:49:26 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@value='next']
+Oct 03, 2020 6:49:26 PM com.firmex.helper.Defs fullshot
+INFO: Browser-->chrome
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //img[@class='loginLogo']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //img[@class='loginLogo']
+Oct 03, 2020 6:49:28 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //img[@class='loginLogo']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //img[@class='loginLogo']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //img[@class='loginLogo']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //h4[text()='Email Address']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //h4[text()='Email Address']
+Oct 03, 2020 6:49:28 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //h4[text()='Email Address']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //h4[text()='Email Address']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //h4[text()='Email Address']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@value='next']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@value='next']
+Oct 03, 2020 6:49:28 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //input[@value='next']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@value='next']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@value='next']
+Oct 03, 2020 6:49:28 PM com.firmex.helper.Defs takeOneShot
+INFO: ResultFolder\Reports\\Execution_Results_LAPTOP-B5VJQV3P_2020_10_03_18_48_54_834\Screenshots\Screenshot_2_elements_2020_10_03_18_49_26
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.helper.Defs takeOneShot
+INFO: Inside Screen Shot
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@name='email']
+Oct 03, 2020 6:49:28 PM com.firmex.helper.Defs fullshot
+INFO: Browser-->chrome
+Oct 03, 2020 6:49:29 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@name='email']
+Oct 03, 2020 6:49:29 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@name='email']
+Oct 03, 2020 6:49:29 PM com.firmex.helper.Defs takeOneShot
+INFO: ResultFolder\Reports\\Execution_Results_LAPTOP-B5VJQV3P_2020_10_03_18_48_54_834\Screenshots\Screenshot_3_Email_2020_10_03_18_49_28
+Oct 03, 2020 6:49:29 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@value='next']
+Oct 03, 2020 6:49:29 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@value='next']
+Oct 03, 2020 6:49:29 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //input[@value='next']
+Oct 03, 2020 6:49:29 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@value='next']
+Oct 03, 2020 6:49:29 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@value='next']
+Oct 03, 2020 6:49:29 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@value='next']
+Oct 03, 2020 6:49:29 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@value='next']
+Oct 03, 2020 6:49:29 PM com.firmex.listener.WebEventListener beforeClickOn
+INFO: Trying to click on: [[ChromeDriver: chrome on WINDOWS (e0f4d7565603d22fc0f1ed685144d7d7)] -> xpath: //input[@value='next']]
+Oct 03, 2020 6:49:30 PM com.firmex.listener.WebEventListener afterClickOn
+INFO: Clicked on: [[ChromeDriver: chrome on WINDOWS (e0f4d7565603d22fc0f1ed685144d7d7)] -> xpath: //input[@value='next']]
+Oct 03, 2020 6:49:30 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@value='Log In']
+Oct 03, 2020 6:49:30 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@value='Log In']
+Oct 03, 2020 6:49:30 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //input[@value='Log In']
+Oct 03, 2020 6:49:30 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@value='Log In']
+Oct 03, 2020 6:49:30 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@value='Log In']
+Oct 03, 2020 6:49:30 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //h4[text()='Password']
+Oct 03, 2020 6:49:30 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //h4[text()='Password']
+Oct 03, 2020 6:49:30 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********true
+Oct 03, 2020 6:49:30 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //h4[text()='Password']
+Oct 03, 2020 6:49:30 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //h4[text()='Password']
+Oct 03, 2020 6:49:30 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:30 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@name='password']
+Oct 03, 2020 6:49:30 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@name='password']
+Oct 03, 2020 6:49:30 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********true
+Oct 03, 2020 6:49:30 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@name='password']
+Oct 03, 2020 6:49:30 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@name='password']
+Oct 03, 2020 6:49:30 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:30 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@value='back']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@value='back']
+Oct 03, 2020 6:49:31 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********true
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@value='back']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@value='back']
+Oct 03, 2020 6:49:31 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@value='Log In']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@value='Log In']
+Oct 03, 2020 6:49:31 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********true
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@value='Log In']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@value='Log In']
+Oct 03, 2020 6:49:31 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //a[text()='Reset/Forgot Password?']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //a[text()='Reset/Forgot Password?']
+Oct 03, 2020 6:49:31 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********true
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //a[text()='Reset/Forgot Password?']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //a[text()='Reset/Forgot Password?']
+Oct 03, 2020 6:49:31 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:31 PM com.firmex.helper.Defs takeOneShot
+INFO: Inside Screen Shot
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //h4[text()='Password']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //h4[text()='Password']
+Oct 03, 2020 6:49:31 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //h4[text()='Password']
+Oct 03, 2020 6:49:31 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //h4[text()='Password']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //h4[text()='Password']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //h4[text()='Password']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@name='password']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@name='password']
+Oct 03, 2020 6:49:31 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //input[@name='password']
+Oct 03, 2020 6:49:31 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //input[@name='password']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@name='password']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@name='password']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@value='back']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@value='back']
+Oct 03, 2020 6:49:31 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //input[@value='back']
+Oct 03, 2020 6:49:31 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //input[@value='back']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@value='back']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@value='back']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@value='Log In']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@value='Log In']
+Oct 03, 2020 6:49:31 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //input[@value='Log In']
+Oct 03, 2020 6:49:31 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //input[@value='Log In']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@value='Log In']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@value='Log In']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //a[text()='Reset/Forgot Password?']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //a[text()='Reset/Forgot Password?']
+Oct 03, 2020 6:49:31 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //a[text()='Reset/Forgot Password?']
+Oct 03, 2020 6:49:31 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //a[text()='Reset/Forgot Password?']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //a[text()='Reset/Forgot Password?']
+Oct 03, 2020 6:49:31 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //a[text()='Reset/Forgot Password?']
+Oct 03, 2020 6:49:31 PM com.firmex.helper.Defs fullshot
+INFO: Browser-->chrome
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //h4[text()='Password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //h4[text()='Password']
+Oct 03, 2020 6:49:33 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //h4[text()='Password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //h4[text()='Password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //h4[text()='Password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@value='back']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@value='back']
+Oct 03, 2020 6:49:33 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //input[@value='back']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@value='back']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@value='back']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@value='Log In']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@value='Log In']
+Oct 03, 2020 6:49:33 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //input[@value='Log In']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@value='Log In']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@value='Log In']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //a[text()='Reset/Forgot Password?']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //a[text()='Reset/Forgot Password?']
+Oct 03, 2020 6:49:33 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //a[text()='Reset/Forgot Password?']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //a[text()='Reset/Forgot Password?']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //a[text()='Reset/Forgot Password?']
+Oct 03, 2020 6:49:33 PM com.firmex.helper.Defs takeOneShot
+INFO: ResultFolder\Reports\\Execution_Results_LAPTOP-B5VJQV3P_2020_10_03_18_48_54_834\Screenshots\Screenshot_4_elements_2020_10_03_18_49_31
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.helper.Defs takeOneShot
+INFO: Inside Screen Shot
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@name='password']
+Oct 03, 2020 6:49:33 PM com.firmex.helper.Defs fullshot
+INFO: Browser-->chrome
+Oct 03, 2020 6:49:35 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@name='password']
+Oct 03, 2020 6:49:35 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@name='password']
+Oct 03, 2020 6:49:35 PM com.firmex.helper.Defs takeOneShot
+INFO: ResultFolder\Reports\\Execution_Results_LAPTOP-B5VJQV3P_2020_10_03_18_48_54_834\Screenshots\Screenshot_5_Email_2020_10_03_18_49_33
+Oct 03, 2020 6:49:35 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@value='Log In']
+Oct 03, 2020 6:49:35 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@value='Log In']
+Oct 03, 2020 6:49:35 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //input[@value='Log In']
+Oct 03, 2020 6:49:35 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //input[@value='Log In']
+Oct 03, 2020 6:49:35 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //input[@value='Log In']
+Oct 03, 2020 6:49:35 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //input[@value='Log In']
+Oct 03, 2020 6:49:35 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //input[@value='Log In']
+Oct 03, 2020 6:49:35 PM com.firmex.listener.WebEventListener beforeClickOn
+INFO: Trying to click on: [[ChromeDriver: chrome on WINDOWS (e0f4d7565603d22fc0f1ed685144d7d7)] -> xpath: //input[@value='Log In']]
+Oct 03, 2020 6:49:35 PM com.firmex.listener.WebEventListener afterClickOn
+INFO: Clicked on: [[ChromeDriver: chrome on WINDOWS (e0f4d7565603d22fc0f1ed685144d7d7)] -> xpath: //input[@value='Log In']]
+Oct 03, 2020 6:49:35 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:35 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:35 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: *******Element presence check*********true
+Oct 03, 2020 6:49:35 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:35 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: Element is displayed in UI
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: TEST_LOGIN_SUCCESS DUMMY ELEMENT
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener onException
+INFO: Exception occured: org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression TEST_LOGIN_SUCCESS DUMMY ELEMENT because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string 'TEST_LOGIN_SUCCESS DUMMY ELEMENT' is not a valid XPath expression.
+  (Session info: chrome=85.0.4183.121)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-B5VJQV3P', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\Bala\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:56721}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: e0f4d7565603d22fc0f1ed685144d7d7
+*** Element info: {Using=xpath, value=TEST_LOGIN_SUCCESS DUMMY ELEMENT}
+Oct 03, 2020 6:49:36 PM com.firmex.helper.CommonMethods elementPresenceCheck
+INFO: No Such Element Exception Occur
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.helper.Defs log
+INFO: Login Failed. Reason - User credentials are invalid. Click here to reset your password
+Oct 03, 2020 6:49:36 PM com.firmex.helper.Defs takeOneShot
+INFO: Inside Screen Shot
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath: //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath: //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.helper.CommonMethods getXpath
+INFO: Extracted xpath-----> //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.helper.Defs highlightElement
+INFO: Highlight Value ---> //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:36 PM com.firmex.helper.Defs fullshot
+INFO: Browser-->chrome
+Oct 03, 2020 6:49:37 PM com.firmex.listener.WebEventListener beforeFindBy
+INFO: Trying to find Element By : By.xpath:  //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:37 PM com.firmex.listener.WebEventListener afterFindBy
+INFO: Found Element By : By.xpath:  //span[contains(@for, 'access_denied')]
+Oct 03, 2020 6:49:37 PM com.firmex.helper.Defs takeOneShot
+INFO: ResultFolder\Reports\\Execution_Results_LAPTOP-B5VJQV3P_2020_10_03_18_48_54_834\Screenshots\Screenshot_6_LoginStatus_2020_10_03_18_49_36
+Oct 03, 2020 6:49:37 PM com.firmex.helper.Defs log
+INFO: Successfully validated error message for invalid credentials
+Oct 03, 2020 6:49:38 PM com.firmex.helper.Defs log
+INFO: Successfully Closed Browser chrome
+Oct 03, 2020 6:49:38 PM com.firmex.base.TestBase tearDown
+INFO: Result Folder --->ResultFolder\Reports\\Execution_Results_LAPTOP-B5VJQV3P_2020_10_03_18_48_54_834
+Oct 03, 2020 6:49:39 PM com.firmex.helper.Defs setResultData
+INFO: Writing the result to excel-->ResultFolder\Reports\\Execution_Results_LAPTOP-B5VJQV3P_2020_10_03_18_48_54_834

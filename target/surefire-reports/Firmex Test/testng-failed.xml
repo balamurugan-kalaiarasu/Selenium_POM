@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Firmex Test]">
+  <test thread-count="5" verbose="0" name="Firmex Test(failed)">
+    <classes>
+      <class name="com.firmex.testCases.InvalidLoginTest">
+        <methods>
+          <include name="setup"/>
+          <include name="invalidLoginTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.firmex.testCases.InvalidLoginTest -->
+    </classes>
+  </test> <!-- Firmex Test(failed) -->
+</suite> <!-- Failed suite [Firmex Test] -->

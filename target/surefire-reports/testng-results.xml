@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Firmex Test" duration-ms="46490" started-at="2020-09-27T05:26:04Z" finished-at="2020-09-27T05:26:51Z">
+    <groups>
+    </groups>
+    <test name="Firmex Test" duration-ms="46490" started-at="2020-09-27T05:26:04Z" finished-at="2020-09-27T05:26:51Z">
+      <class name="com.firmex.testCases.InvalidLoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.firmex.testCases.InvalidLoginTest@69d9c55]" name="setup" is-config="true" duration-ms="8870" started-at="2020-09-27T05:26:04Z" finished-at="2020-09-27T05:26:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="invalidLoginTest()[pri:0, instance:com.firmex.testCases.InvalidLoginTest@69d9c55]" name="invalidLoginTest" duration-ms="36265" started-at="2020-09-27T05:26:13Z" finished-at="2020-09-27T05:26:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.firmex.testCases.InvalidLoginTest@69d9c55]" name="tearDown" is-config="true" duration-ms="1324" started-at="2020-09-27T05:26:49Z" finished-at="2020-09-27T05:26:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidLoginTest status=SUCCESS method=InvalidLoginTest.invalidLoginTest()[pri:0, instance:com.firmex.testCases.InvalidLoginTest@69d9c55] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.firmex.testCases.InvalidLoginTest -->
+    </test> <!-- Firmex Test -->
+  </suite> <!-- Firmex Test -->
+</testng-results>
